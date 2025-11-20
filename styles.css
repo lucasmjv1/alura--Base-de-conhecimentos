@@ -1,0 +1,340 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-color: #e6b224; 
+    --secondary-color: #e8eaed; 
+    --tertiary-color: #9aa0a6; 
+    --bg-color: #202124; 
+    --card-bg-color: #2c2c2c; 
+    --accent-shadow: 0 0 0 0.1rem #8ab4f850; 
+}
+
+body {
+    margin: 0;
+    background: var(--bg-color);
+    color: var(--secondary-color);
+    font-family: "Noto Sans JP", sans-serif;
+    min-height: 100vh;
+    position: relative; 
+}
+
+header {
+    padding: 1.5rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: sticky;
+    top: 0;
+    background: var(--bg-color);
+    z-index: 10;
+    border-bottom: 1px solid #3c4043; 
+    gap: 1rem;
+}
+
+header h1 {
+    font-size: 1.5rem;
+    margin: 0;
+    font-weight: 500;
+    white-space: nowrap;
+    color: var(--primary-color); 
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+}
+
+.search-container input {
+    padding: 0.75rem 1.25rem;
+    border-radius: 24px; 
+    border: 1px solid transparent; 
+    background: var(--card-bg-color); 
+    font-size: 1rem;
+    width: 35rem; 
+    color: var(--secondary-color);
+    margin-right: 0.75rem;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+    transition: all 0.2s ease;
+}
+
+.search-container input::placeholder {
+    font-size: 1rem;
+    font-weight: 300;
+    color: var(--tertiary-color);
+}
+
+.search-container input:focus {
+    outline: none;
+    border-color: var(--primary-color); 
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.4), 0 0 0 1px var(--primary-color); 
+}
+
+#botao-busca {
+    padding: 0.75rem 1.5rem;
+    border-radius: 24px;
+    border: 1px solid var(--tertiary-color);
+    cursor: pointer;
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 1rem;
+    white-space: nowrap;
+    transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+    background-color: var(--bg-color);
+    color: var(--secondary-color);
+}
+
+#botao-busca:hover {
+    background-color: #3c4043; 
+    border-color: var(--primary-color);
+}
+
+#botao-busca:active {
+    transform: scale(0.98);
+}
+
+main {
+    max-width: 90rem; 
+    margin: 0 auto;
+    padding: 2rem 2rem 5rem; 
+}
+
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr)); 
+    gap: 2rem;
+}
+
+.card {
+    background-color: var(--card-bg-color);
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    display: flex;
+    overflow: hidden;
+    transition: transform 0.3s, box-shadow 0.3s;
+    border: 1px solid #3c4043;
+    padding: 0; 
+}
+
+.card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+    border-color: var(--primary-color); 
+    cursor: default; 
+}
+
+.card-capa {
+    flex-shrink: 0;
+    width: 150px; 
+    height: 100%;
+}
+
+.card-capa img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.card-info {
+    padding: 1.5rem;
+}
+
+.card-info h2 {
+    color: var(--primary-color);
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.meta-info {
+    color: var(--tertiary-color);
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
+.sinopse {
+    font-size: 1rem;
+    color: var(--secondary-color);
+    margin-bottom: 1.5rem;
+    line-height: 1.5;
+}
+
+.links-secao h4 {
+    color: var(--tertiary-color);
+    font-size: 1rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+}
+
+.links-container {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.plataforma-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: var(--secondary-color);
+    background-color: #3c4043; 
+    padding: 6px 10px;
+    border-radius: 4px;
+    transition: background-color 0.2s, color 0.2s;
+    font-size: 0.9rem;
+}
+
+.plataforma-link:hover {
+    background-color: var(--primary-color);
+    color: var(--bg-color); 
+}
+
+.plataforma-link span {
+    font-weight: 500;
+}
+
+.icone-plataforma {
+    width: 18px;
+    height: 18px;
+    margin-right: 6px;
+    filter: brightness(0) invert(1); 
+}
+
+.plataforma-link:hover .icone-plataforma {
+    filter: brightness(0) invert(0); 
+}
+
+/* ======================================= */
+/* 6. Footer (Rodapé) - FINAL */
+/* ======================================= */
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: var(--card-bg-color);
+    padding: 20px 0;
+    border-top: 1px solid #3c4043;
+    font-size: 0.9rem;
+    text-align: center;
+}
+
+.footer-links {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-links a {
+    display: flex;
+    align-items: center;
+    color: var(--tertiary-color);
+    text-decoration: none;
+    transition: color 0.3s, transform 0.3s;
+    font-weight: 500;
+}
+
+/* Configuração Base para as Imagens */
+.footer-links img {
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+    object-fit: contain;
+    transition: filter 0.3s, transform 0.3s;
+}
+
+/* 🟢 ESPECÍFICO PARA O GITHUB: */
+/* Inverte a cor (Preto vira Branco) para aparecer no fundo escuro */
+.footer-links img[alt="Github"] {
+    filter: invert(1); 
+}
+
+/* 🟣 ESPECÍFICO PARA O INSTAGRAM: */
+/* Não inverte (mantém a cor), mas aumenta o brilho para ficar "mais claro" */
+.footer-links img[alt="Instagram"] {
+    filter: brightness(1.3) contrast(1.1); 
+}
+
+/* EFEITO AO PASSAR O MOUSE (HOVER) */
+.footer-links a:hover {
+    color: var(--primary-color);
+    transform: translateY(-2px);
+}
+
+/* No hover, o Instagram volta ao normal e dá um zoom leve */
+.footer-links a:hover img {
+    transform: scale(1.1);
+}
+@media (max-width: 1100px) {
+    .card-container {
+        grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    }
+}
+
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        padding: 1rem;
+        gap: 0.5rem;
+    }
+
+    .search-container {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .search-container input {
+        width: 100%; 
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    #botao-busca {
+        width: 100%;
+    }
+
+    .card-container {
+        grid-template-columns: 1fr;
+    }
+    
+    .card {
+        flex-direction: column; 
+        max-width: 400px;
+        margin: 0 auto;
+    }
+
+    .card-capa {
+        width: 100%;
+        height: 200px; 
+    }
+
+    .card:hover {
+        transform: none; 
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+        border-color: #3c4043;
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.2rem;
+    }
+
+    main {
+        padding: 1rem 1rem 5rem;
+    }
+
+    .footer {
+        padding: 10px 20px;
+    }
+}

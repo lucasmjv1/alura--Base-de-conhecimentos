@@ -1,0 +1,576 @@
+[
+    {
+      "nome": "Dr. Stone",
+      "ano": "Julho a Dezembro de 2019",
+      "autor": "Riichiro Inagaki",
+      "sinopse": "A história começa 3.700 anos após um misterioso feixe de luz transformar todos os seres humanos do planeta em pedra. O protagonista é Senku Ishigami, um estudante incrivelmente inteligente e movido pela ciência, que consegue se libertar da petrificação.",
+      "capa_url": "https://i.pinimg.com/736x/e5/a7/70/e5a770564d688fe063c243593256f9c4.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GYEXQKJG6/dr-stone" }
+      ]
+    },
+    {
+      "nome": "One Piece",
+      "ano": "Julho de 1999",
+      "autor": "Eiichiro Oda",
+      "sinopse": "A história de One Piece começa com a execução do Rei dos Piratas, Gol D. Roger. Antes de morrer, Roger revela que escondeu o maior tesouro do mundo, o One Piece, em algum lugar da Grand Line. Essa declaração inicia a Grande Era dos Piratas, com inúmeros jovens e adultos partindo para o mar em busca desse sonho.",
+      "capa_url": "https://i.pinimg.com/1200x/ce/c6/2c/cec62cabf2aaafa302a46da4db32419d.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GRMG8ZQZR/one-piece" }
+      ]
+    },
+    {
+      "nome": "Attack on Titan (Shingeki no Kyojin)",
+      "ano": "Abril de 2013",
+      "autor": "Hajime Isayama",
+      "sinopse": "Em um mundo onde a humanidade vive cercada por enormes muros para se proteger de gigantes humanoides devoradores de pessoas (Titãs), Eren Yeager jura exterminar todos eles após uma tragédia pessoal.",
+      "capa_url": "https://i.pinimg.com/1200x/65/89/ab/6589ab1145b7c2aa000592f2beed8ca3.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GR751KNZY/attack-on-titan" }
+      ]
+    },
+    {
+      "nome": "Jujutsu Kaisen",
+      "ano": "Outubro de 2020",
+      "autor": "Gege Akutami",
+      "sinopse": "Yuji Itadori é um estudante do ensino médio com habilidades físicas incríveis que se junta a um clube de ocultismo. Após engolir um objeto amaldiçoado, ele se torna o hospedeiro de um poderoso demônio.",
+      "capa_url": "https://i.pinimg.com/736x/57/ed/00/57ed00992e25e38d7b2cce3c9936bacf.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GR9P3V99R/jujutsu-kaisen" }
+      ]
+    },
+    {
+      "nome": "My Hero Academia (Boku no Hero Academia)",
+      "ano": "Abril de 2016",
+      "autor": "Kohei Horikoshi",
+      "sinopse": "Em um mundo onde superpoderes ('Quirks') se tornaram comuns, Izuku Midoriya, um garoto sem Quirk, sonha em se tornar um herói e é escolhido pelo maior herói do mundo, All Might, para ser seu sucessor.",
+      "capa_url": "https://i.imgur.com/MyHeroAcademiaCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GRGG927G6/my-hero-academia" }
+      ]
+    },
+    {
+      "nome": "Demon Slayer: Kimetsu no Yaiba",
+      "ano": "Abril de 2019",
+      "autor": "Koyoharu Gotouge",
+      "sinopse": "Após sua família ser massacrada e sua irmã, Nezuko, ser transformada em um demônio, Tanjiro Kamado embarca em uma jornada para se tornar um Caçador de Demônios e encontrar uma cura para sua irmã.",
+      "capa_url": "https://i.pinimg.com/736x/b3/e4/2d/b3e42d42ed3985cde0b3fd5beeb4276f.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GRNPQ0MXY/demon-slayer-kimetsu-no-yaiba" }
+      ]
+    },
+    {
+      "nome": "Fullmetal Alchemist: Brotherhood",
+      "ano": "Abril de 2009",
+      "autor": "Hiromu Arakawa",
+      "sinopse": "Os irmãos alquimistas Edward e Alphonse Elric buscam a lendária Pedra Filosofal para restaurar seus corpos após uma tentativa fracassada de reviver a mãe usando alquimia (Transmutação Humana).",
+      "capa_url": "https://i.imgur.com/FullmetalAlchemistCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/G6P8P2W5R/fullmetal-alchemist-brotherhood" }
+      ]
+    },
+    {
+      "nome": "Naruto Shippuden",
+      "ano": "Fevereiro de 2007",
+      "autor": "Masashi Kishimoto",
+      "sinopse": "Sequência de Naruto, foca no retorno de Naruto Uzumaki à Vila da Folha após dois anos e meio de treinamento e em sua luta contra a organização criminosa Akatsuki.",
+      "capa_url": "https://i.imgur.com/NarutoShippudenCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GRMBZJZ4R/naruto-shippuden" }
+      ]
+    },
+    {
+      "nome": "Spy x Family",
+      "ano": "Abril de 2022",
+      "autor": "Tatsuya Endo",
+      "sinopse": "Para cumprir uma missão, um espião ('Twilight') deve formar uma família falsa rapidamente. Ele adota uma filha com poderes telepáticos e 'se casa' com uma assassina profissional. Nenhum deles sabe a verdadeira identidade do outro.",
+      "capa_url": "https://i.pinimg.com/736x/46/db/ab/46dbab6d40f68b1d8a202e2e346c718f.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GZJHXP4E5/spy-x-family" }
+      ]
+    },
+    {
+      "nome": "Chainsaw Man",
+      "ano": "Outubro de 2022",
+      "autor": "Tatsuki Fujimoto",
+      "sinopse": "Denji é um jovem que se funde com seu cão-demônio, Pochita, e se torna o 'Chainsaw Man'. Ele é recrutado para caçar demônios em nome de uma agência governamental.",
+      "capa_url": "https://i.imgur.com/ChainsawManCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GZJHXP4E5/spy-x-family" }
+      ]
+    },
+    {
+      "nome": "Hunter x Hunter",
+      "ano": "Outubro de 2011 (Remake)",
+      "autor": "Yoshihiro Togashi",
+      "sinopse": "Gon Freecss decide se tornar um Hunter para encontrar seu pai, que o abandonou para seguir o mesmo caminho. Ele faz amizades e enfrenta perigos em um mundo cheio de criaturas e poderes extraordinários.",
+      "capa_url": "https://i.imgur.com/HunterXHunterCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GY8DWQ86Y/hunter-x-hunter" },
+        { "plataforma": "HBO Max", "link": "https://www.max.com/br/pt/series/hunter-x-hunter/1126131498" }
+      ]
+    },
+    {
+      "nome": "Death Note",
+      "ano": "Outubro de 2006",
+      "autor": "Tsugumi Ohba, Takeshi Obata",
+      "sinopse": "Light Yagami, um estudante genial, encontra um caderno sobrenatural ('Death Note') que lhe permite matar qualquer pessoa cujo nome seja escrito nele. Ele tenta criar um 'mundo novo' livre do mal, mas é caçado pelo detetive 'L'.",
+      "capa_url": "https://i.imgur.com/DeathNoteCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GR9PMMXG6/death-note" }
+      ]
+    },
+    {
+      "nome": "Code Geass",
+      "ano": "Outubro de 2006",
+      "autor": "Sunrise",
+      "sinopse": "Lelouch vi Britannia ganha um poder misterioso ('Geass') que permite dar ordens absolutas a qualquer um. Ele usa essa nova habilidade para liderar uma rebelião contra o Império Britânico, que conquistou o Japão.",
+      "capa_url": "https://i.imgur.com/CodeGeassCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GRJ0DDV0R/code-geass" }
+      ]
+    },
+    {
+      "nome": "Haikyuu!!",
+      "ano": "Abril de 2014",
+      "autor": "Haruichi Furudate",
+      "sinopse": "Shoyo Hinata, apesar de sua baixa estatura, é determinado a se tornar um grande jogador de vôlei. Ele se junta ao time de Karasuno e forma uma dupla imbatível com seu rival, Tobio Kageyama.",
+      "capa_url": "https://i.imgur.com/HaikyuuCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GR751KNZY/attack-on-titan" }
+      ]
+    },
+    {
+      "nome": "Vinland Saga",
+      "ano": "Julho de 2019",
+      "autor": "Makoto Yukimura",
+      "sinopse": "A história segue Thorfinn, um garoto que busca vingança contra o líder mercenário Askeladd, responsável pela morte de seu pai. A trama é ambientada na Europa no século XI, em meio a invasões vikings.",
+      "capa_url": "https://i.imgur.com/VinlandSagaCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GR9P8JMM6/vinland-saga" }
+      ]
+    },
+    {
+      "nome": "Cowboy Bebop",
+      "ano": "Abril de 1998",
+      "autor": "Sunrise",
+      "sinopse": "No ano de 2071, um grupo de caçadores de recompensas (cowboys) viaja pelo sistema solar na espaçonave Bebop, caçando criminosos e lidando com seus passados complicados.",
+      "capa_url": "https://i.imgur.com/CowboyBebopCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GYZJ3G9Y6/cowboy-bebop" }
+      ]
+    },
+    {
+      "nome": "Steins;Gate",
+      "ano": "Abril de 2011",
+      "autor": "5pb., Nitroplus",
+      "sinopse": "Rintaro Okabe, um autoproclamado 'cientista louco', acidentalmente descobre uma maneira de enviar mensagens ao passado, o que desencadeia uma série de eventos que ameaçam o futuro.",
+      "capa_url": "https://i.imgur.com/SteinsGateCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/G1VHB2Q49/steinsgate" }
+      ]
+    },
+    {
+      "nome": "One Punch Man",
+      "ano": "Outubro de 2015",
+      "autor": "ONE",
+      "sinopse": "Saitama é um herói que treinou tanto que consegue derrotar qualquer inimigo com apenas um soco, o que o leva a uma crise existencial pela falta de desafios emocionantes.",
+      "capa_url": "https://i.imgur.com/OnePunchManCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GRDQKEDQY/one-punch-man" }
+      ]
+    },
+    {
+      "nome": "Re:ZERO - Starting Life in Another World",
+      "ano": "Abril de 2016",
+      "autor": "Tappei Nagatsuki",
+      "sinopse": "Subaru Natsuki é transportado para um mundo de fantasia e descobre que possui a habilidade de 'Retornar pela Morte', que o permite voltar no tempo sempre que morre.",
+      "capa_url": "https://i.imgur.com/ReZeroCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/G6MG4PLQR/rezero--starting-life-in-another-world" }
+      ]
+    },
+    {
+      "nome": "Violet Evergarden",
+      "ano": "Janeiro de 2018",
+      "autor": "Kana Akatsuki",
+      "sinopse": "Violet Evergarden, uma ex-soldado que perdeu os braços em batalha, torna-se uma 'Auto Memory Doll', escrevendo cartas para ajudar outras pessoas a expressar seus sentimentos, enquanto tenta entender o significado das palavras 'Eu te amo'.",
+      "capa_url": "https://i.imgur.com/VioletEvergardenCapa.jpg",
+      "links_para_assistir": []
+    },
+    {
+      "nome": "Black Clover",
+      "ano": "Outubro de 2017",
+      "autor": "Yuki Tabata",
+      "sinopse": "Em um mundo onde a magia é tudo, Asta, um garoto que não consegue usar magia, sonha em se tornar o Rei Mago. Ele recebe um misterioso grimório de cinco folhas e compete com seu rival, Yuno, para alcançar seu objetivo.",
+      "capa_url": "https://i.imgur.com/BlackCloverCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GRNV0KW9R/black-clover" }
+      ]
+    },
+    {
+      "nome": "Yu Yu Hakusho",
+      "ano": "Outubro de 1999",
+      "autor": "Yoshihiro Togashi",
+      "sinopse": "Yusuke Urameshi, um delinquente juvenil, morre atropelado ao salvar uma criança. Por um ato inesperado de bondade, ele tem a chance de retornar à vida como 'Detetive Espiritual', resolvendo casos envolvendo demônios no mundo humano.",
+      "capa_url": "https://i.imgur.com/YuYuHakushoCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GYDQK9WEY/yu-yu-hakusho" }
+      ]
+    },
+    {
+      "nome": "Frieren e a Jornada Para o Além (Sousou no Frieren)",
+      "ano": "Setembro de 2023",
+      "autor": "Kanehito Yamada, Tsukasa Abe",
+      "sinopse": "Frieren é uma maga elfa que fez parte do grupo que derrotou o Rei Demônio. Após a morte de seus companheiros humanos, ela começa uma nova jornada para entender melhor a humanidade e as emoções, viajando pelo mundo que ela ajudou a salvar.",
+      "capa_url": "https://i.imgur.com/FrierenCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/G0XHWMG13/frieren-e-a-jornada-para-o-alm" }
+      ]
+    },
+    {
+      "nome": "Fairy Tail",
+      "ano": "Outubro de 2009",
+      "autor": "Hiro Mashima",
+      "sinopse": "Lucy Heartfilia, uma maga celestial, se junta à guilda de magos Fairy Tail e embarca em inúmeras aventuras com seus companheiros Natsu Dragneel, um Dragon Slayer de fogo, Gray Fullbuster, Erza Scarlet e Happy.",
+      "capa_url": "https://i.imgur.com/FairyTailCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/G6P8PJ92Y/fairy-tail" }
+      ]
+    },
+    {
+      "nome": "Gintama",
+      "ano": "Abril de 2006",
+      "autor": "Hideaki Sorachi",
+      "sinopse": "Em um Edo alternativo invadido por alienígenas, Gintoki Sakata, um ex-samurai, trabalha como freelancer, fazendo qualquer bico para sobreviver, em meio a comédia e ocasionalmente ação séria.",
+      "capa_url": "https://i.imgur.com/GintamaCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GRDQK9W4R/gintama" }
+      ]
+    },
+    {
+      "nome": "Neon Genesis Evangelion",
+      "ano": "Outubro de 1995",
+      "autor": "Hideaki Anno",
+      "sinopse": "Em 2015, a Terra é atacada por criaturas gigantes chamadas 'Anjos'. O adolescente Shinji Ikari é forçado a pilotar um mecha gigante, o Evangelion, para defender a humanidade.",
+      "capa_url": "https://i.imgur.com/EvangelionCapa.jpg",
+      "links_para_assistir": []
+    },
+    {
+      "nome": "Mob Psycho 100",
+      "ano": "Julho de 2016",
+      "autor": "ONE",
+      "sinopse": "Shigeo Kageyama, apelidado de Mob, é um estudante do ensino médio com imensos poderes psíquicos. Ele trabalha para um falso médium, tentando manter suas emoções sob controle, pois se elas atingirem 100%, seus poderes se tornam destrutivos.",
+      "capa_url": "https://i.imgur.com/MobPsycho100Capa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GR9PG90GR/mob-psycho-100" }
+      ]
+    },
+    {
+      "nome": "Tokyo Ghoul",
+      "ano": "Julho de 2014",
+      "autor": "Sui Ishida",
+      "sinopse": "Ken Kaneki é um estudante que é atacado por uma 'Ghoul' (criatura que se alimenta de carne humana) e, após um transplante de órgãos, acorda como um híbrido de humano e Ghoul, tendo que se adaptar a viver no submundo de Tokyo.",
+      "capa_url": "https://i.imgur.com/TokyoGhoulCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GRWEW9ZQR/tokyo-ghoul" },
+        { "plataforma": "Prime Video", "link": "https://www.primevideo.com/detail/Tokyo-Ghoul/0ND7K5W7F0K0D45B0P5U2M5Z2U" }
+      ]
+    },
+    {
+      "nome": "The Promised Neverland",
+      "ano": "Janeiro de 2019",
+      "autor": "Kaiu Shirai, Posuka Demizu",
+      "sinopse": "Em um orfanato aparentemente idílico, as crianças Emma, Norman e Ray descobrem a sombria e terrível verdade sobre sua existência e planejam uma fuga.",
+      "capa_url": "https://i.imgur.com/ThePromisedNeverlandCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/G68VPG80R/the-promised-neverland" }
+      ]
+    },
+    {
+      "nome": "Kaguya-sama: Love Is War",
+      "ano": "Janeiro de 2019",
+      "autor": "Aka Akasaka",
+      "sinopse": "Kaguya Shinomiya e Miyuki Shirogane são os prodígios do conselho estudantil que se amam, mas são orgulhosos demais para confessar. Eles embarcam em uma guerra psicológica de esquemas para forçar o outro a confessar primeiro.",
+      "capa_url": "https://i.imgur.com/KaguyaSamaCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GY9PEMK9R/kaguya-sama-love-is-war" }
+      ]
+    },
+    {
+      "nome": "Tokyo Revengers",
+      "ano": "Abril de 2021",
+      "autor": "Ken Wakui",
+      "sinopse": "Takemichi Hanagaki, um jovem sem ambição, descobre que sua ex-namorada foi assassinada. Ele ganha a habilidade de viajar 12 anos no passado e tenta se infiltrar em uma gangue para mudar o futuro e salvá-la.",
+      "capa_url": "https://i.imgur.com/TokyoRevengersCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GZJHXP4E5/spy-x-family" }
+      ]
+    },
+    {
+      "nome": "Bocchi the Rock!",
+      "ano": "Outubro de 2022",
+      "autor": "Aki Hamaji",
+      "sinopse": "Hitori Gotoh, apelidada de 'Bocchi', é uma garota extremamente ansiosa e socialmente desajeitada que sonha em fazer parte de uma banda. Ela acaba se juntando ao Kessoku Band e luta contra sua timidez.",
+      "capa_url": "https://i.imgur.com/BocchiTheRockCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GZJHXP4E5/spy-x-family" }
+      ]
+    },
+    {
+      "nome": "The Rising of the Shield Hero",
+      "ano": "Janeiro de 2019",
+      "autor": "Aneko Yusagi",
+      "sinopse": "Naofumi Iwatani é invocado para um mundo de fantasia como um dos Quatro Heróis Cardeais, o Herói do Escudo. Imediatamente traído, ele se torna cínico e deve reconstruir sua reputação e força.",
+      "capa_url": "https://i.imgur.com/ShieldHeroCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/G68VPG80R/the-promised-neverland" }
+      ]
+    },
+    {
+      "nome": "Dr. STONE - mais de 50 (33/55)",
+      "ano": "Julho a Dezembro de 2019",
+      "autor": "Riichiro Inagaki",
+      "sinopse": "Senku e seus amigos continuam a reconstruir a civilização através da ciência.",
+      "capa_url": "https://i.imgur.com/DrStoneCapa2.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GYEXQKJG6/dr-stone" }
+      ]
+    },
+    {
+      "nome": "That Time I Got Reincarnated as a Slime",
+      "ano": "Outubro de 2018",
+      "autor": "Fuse",
+      "sinopse": "Um assalariado é esfaqueado e reencarna em um mundo de fantasia como um Slime. Ele desenvolve poderes únicos e começa a construir um reino para monstros.",
+      "capa_url": "https://i.imgur.com/ReincarnatedAsSlimeCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/G6P8PQDWY/that-time-i-got-reincarnated-as-a-slime" }
+      ]
+    },
+    {
+      "nome": "JoJo's Bizarre Adventure",
+      "ano": "Outubro de 2012",
+      "autor": "Hirohiko Araki",
+      "sinopse": "Conta a saga de várias gerações da família Joestar e suas batalhas contra forças sobrenaturais e vilões poderosos.",
+      "capa_url": "https://i.imgur.com/JojosCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GYQ4J2W5R/jojos-bizarre-adventure" }
+      ]
+    },
+    {
+      "nome": "Your Lie in April (Shigatsu wa Kimi no Uso)",
+      "ano": "Outubro de 2014",
+      "autor": "Naoshi Arakawa",
+      "sinopse": "Kosei Arima, um pianista prodígio, perde a capacidade de ouvir o som do piano após a morte de sua mãe. Sua vida muda ao conhecer Kaori Miyazono, uma violinista com espírito livre.",
+      "capa_url": "https://i.imgur.com/YourLieInAprilCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/G6MGP1XER/your-lie-in-april" }
+      ]
+    },
+    {
+      "nome": "Assassination Classroom",
+      "ano": "Janeiro de 2015",
+      "autor": "Yusei Matsui",
+      "sinopse": "Os alunos de uma turma escolar recebem a missão de assassinar seu professor, Koro-sensei, um alienígena com tentáculos que promete destruir a Terra em um ano, a menos que seja parado.",
+      "capa_url": "https://i.imgur.com/AssassinationClassroomCapa.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GR9PG90GR/mob-psycho-100" }
+      ]
+    },
+    {
+      "nome": "Toradora!",
+      "ano": "Outubro de 2008",
+      "autor": "Yuyuko Takemiya",
+      "sinopse": "Ryūji Takasu, um garoto gentil com um olhar assustador, se une à 'tigresa de bolso', Taiga Aisaka, para ajudar um ao outro a conquistar seus respectivos melhores amigos.",
+      "capa_url": "https://m.media-amazon.com/images/I/910D6957pGL._AC_UF1000,1000_QL80_.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/G68VPG30R/toradora" }
+      ]
+    },
+    {
+      "nome": "Erased (Boku Dake ga Inai Machi)",
+      "ano": "Janeiro de 2016",
+      "autor": "Kei Sanbe",
+      "sinopse": "Satoru Fujinuma tem a capacidade de viajar no tempo por alguns minutos para evitar tragédias ('Revival'). Ele é forçado a voltar 18 anos no passado para prevenir o sequestro e assassinato de seus colegas de escola.",
+      "capa_url": "https://m.media-amazon.com/images/I/71Y+71D3Q+L._AC_UF1000,1000_QL80_.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/G6WEQWW9R/erased" }
+      ]
+    },
+    {
+      "nome": "Mushoku Tensei: Jobless Reincarnation",
+      "ano": "Janeiro de 2021",
+      "autor": "Rifujin na Magonote",
+      "sinopse": "Um homem de 34 anos recluso morre e reencarna em um mundo de fantasia como Rudeus Greyrat, prometendo viver sua nova vida sem arrependimentos.",
+      "capa_url": "https://cdn.myanimelist.net/images/anime/1182/139360.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/G9UHGEJ2G/mushoku-tensei-jobless-reincarnation" }
+      ]
+    },
+    {
+      "nome": "Kimi no Na wa. (Your Name)",
+      "ano": "Agosto de 2016 (Filme)",
+      "autor": "Makoto Shinkai",
+      "sinopse": "Uma garota do interior e um garoto de Tóquio trocam de corpos misteriosamente e tentam se encontrar enquanto um cometa se aproxima da Terra.",
+      "capa_url": "https://m.media-amazon.com/images/I/918tM5sFfEL._AC_UF1000,1000_QL80_.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/movie/799059/your-name" }
+      ]
+    },
+    {
+      "nome": "A Viagem de Chihiro (Filme)",
+      "ano": "Julho de 2001 (Filme)",
+      "autor": "Hayao Miyazaki",
+      "sinopse": "Chihiro, uma menina de 10 anos, entra em um mundo espiritual onde seus pais são transformados em porcos. Ela precisa trabalhar em uma casa de banho para sobreviver e encontrar uma maneira de salvar seus pais.",
+      "capa_url": "https://m.media-amazon.com/images/I/71N92Xw1E+L.jpg",
+      "links_para_assistir": []
+    },
+    {
+      "nome": "Blue Lock",
+      "ano": "Outubro de 2022",
+      "autor": "Muneyuki Kaneshiro, Yusuke Nomura",
+      "sinopse": "Após a derrota na Copa do Mundo, a União Japonesa de Futebol lança o projeto 'Blue Lock', onde 300 atacantes são reunidos para criar o egoísta e melhor atacante do mundo.",
+      "capa_url": "https://i.pinimg.com/1200x/22/de/bd/22debdd7f5507ade93109bd03e05b155.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GZJHXP4E5/spy-x-family" }
+      ]
+    },
+    {
+      "nome": "Diários de uma Apotecária (Kusuriya no Hitorigoto)",
+      "ano": "Outubro de 2023",
+      "autor": "Natsu Hyūga",
+      "sinopse": "Maomao, uma jovem apotecária sequestrada e forçada a trabalhar no palácio, usa seus conhecimentos em medicina e venenos para resolver mistérios na corte imperial.",
+      "capa_url": "https://i.pinimg.com/1200x/bd/7c/59/bd7c59b08a68126baaff7cb3844c6096.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/G3KHEVDJ7/the-apothecary-diaries" }
+      ]
+    },
+    {
+      "nome": "Tengen Toppa Gurren Lagann",
+      "ano": "Abril de 2007",
+      "autor": "Gainax",
+      "sinopse": "Em um futuro onde a humanidade vive confinada em vilas subterrâneas, Simon e Kamina encontram um mecha, o Lagann, e emergem à superfície para lutar contra o Rei Espiral.",
+      "capa_url": "https://cdn.myanimelist.net/images/anime/1138/91629.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GRQWJ770R/tengen-toppa-gurren-lagann" }
+      ]
+    },
+    {
+      "nome": "Akira (Filme)",
+      "ano": "Julho de 1988 (Filme)",
+      "autor": "Katsuhiro Otomo",
+      "sinopse": "Ambientado em uma Neo-Tóquio distópica, o motoqueiro adolescente Kaneda precisa deter seu amigo Tetsuo, que desenvolveu poderes telecinéticos destrutivos.",
+      "capa_url": "https://m.media-amazon.com/images/I/7162zC0jKFL.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Prime Video", "link": "https://www.primevideo.com/detail/Akira/0S4E7R9N5R1G7Q7R7R7E1R1R1Q" }
+      ]
+    },
+    {
+      "nome": "Cyberpunk: Edgerunners",
+      "ano": "Setembro de 2022",
+      "autor": "Studio Trigger",
+      "sinopse": "Em uma megalópole futurista obcecada por tecnologia e modificações corporais, um garoto de rua tenta sobreviver tornando-se um 'edgerunner' (mercenário fora da lei).",
+      "capa_url": "https://cdn.myanimelist.net/images/anime/1813/126622.jpg",
+      "links_para_assistir": []
+    },
+    {
+      "nome": "Bleach: Thousand-Year Blood War",
+      "ano": "Outubro de 2022",
+      "autor": "Tite Kubo",
+      "sinopse": "A Guerra Sangrenta de Mil Anos começa quando uma nova força sombria, os Quincies, ataca a Soul Society e declara guerra aos Shinigamis.",
+      "capa_url": "https://cdn.myanimelist.net/images/anime/1764/130171.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Star+", "link": "https://www.starplus.com/series/bleach-thousand-year-blood-war/5nN81uH9h16T" }
+      ]
+    },
+    {
+      "nome": "Solo Leveling",
+      "ano": "Janeiro de 2024",
+      "autor": "Chugong",
+      "sinopse": "O caçador mais fraco do mundo, Sung Jinwoo, ganha um sistema misterioso que o permite subir de nível ilimitadamente, transformando-o no mais forte.",
+      "capa_url": "https://cdn.myanimelist.net/images/anime/1826/138138.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GZJHXP4E5/spy-x-family" }
+      ]
+    },
+    {
+      "nome": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "ano": "Outubro de 2018",
+      "autor": "Hajime Kamoshida",
+      "sinopse": "Sakuta Azusagawa encontra uma atriz vestida de coelhinha em uma biblioteca, mas ninguém mais a vê. Ele decide ajudá-la a resolver o mistério por trás da 'Síndrome da Adolescência'.",
+      "capa_url": "https://cdn.myanimelist.net/images/anime/1327/94770.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GY8PWQ52Y/rascal-does-not-dream-of-bunny-girl-senpai" }
+      ]
+    },
+    {
+      "nome": "Death Parade",
+      "ano": "Janeiro de 2015",
+      "autor": "Yuzuru Tachikawa",
+      "sinopse": "Após a morte, as almas são enviadas para um bar onde devem participar de jogos de vida ou morte. O resultado desses jogos determina se suas almas serão reencarnadas ou enviadas para o vazio.",
+      "capa_url": "https://cdn.myanimelist.net/images/anime/1104/113829.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Funimation", "link": "https://www.funimation.com/shows/death-parade/" }
+      ]
+    },
+    {
+      "nome": "Parasyte: The Maxim (Kiseijū: Sei no Kakuritsu)",
+      "ano": "Outubro de 2014",
+      "autor": "Hitoshi Iwaaki",
+      "sinopse": "Criaturas alienígenas parasitas invadem a Terra e assumem o controle dos cérebros humanos. O estudante Shinichi Izumi é parcialmente infectado e deve coexistir com o parasita em sua mão direita para lutar contra outros parasitas.",
+      "capa_url": "https://cdn.myanimelist.net/images/anime/1359/137683.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GYMG25RZY/parasyte-the-maxim" }
+      ]
+    },
+    {
+      "nome": "Made in Abyss",
+      "ano": "Julho de 2017",
+      "autor": "Akihito Tsukushi",
+      "sinopse": "A órfã Riko e o robô humanóide Reg se aventuram em um enorme e misterioso buraco, o 'Abismo', em busca da mãe de Riko, enfrentando perigos e criaturas desconhecidas.",
+      "capa_url": "https://cdn.myanimelist.net/images/anime/1202/136881.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Prime Video", "link": "https://www.primevideo.com/detail/Made-in-Abyss/0P2B9V3L1Z6J5J2R0U7Z8L3X9P" }
+      ]
+    },
+    {
+      "nome": "Run with the Wind (Kaze ga Tsuyoku Fuite Iru)",
+      "ano": "Outubro de 2018",
+      "autor": "Shion Miura",
+      "sinopse": "Um ex-corredor de elite tenta montar uma equipe de dez membros, na maioria inexperientes, para competir na Hakone Ekiden, uma das maratonas de revezamento mais prestigiadas do Japão.",
+      "capa_url": "https://cdn.myanimelist.net/images/anime/1587/97129.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GRGG9V50R/run-with-the-wind" }
+      ]
+    },
+    {
+      "nome": "Saga of Tanya the Evil (Yōjo Senki)",
+      "ano": "Janeiro de 2017",
+      "autor": "Carlo Zen",
+      "sinopse": "Um assalariado ateu é reencarnado em um mundo de guerra mágica como uma menina chamada Tanya Degurechaff. Para evitar ir para o inferno, ela deve se tornar uma das magas mais poderosas do império.",
+      "capa_url": "https://cdn.myanimelist.net/images/anime/13/82333.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GRNV1WJ7R/saga-of-tanya-the-evil" }
+      ]
+    },
+    {
+      "nome": "Angel Beats!",
+      "ano": "Abril de 2010",
+      "autor": "Jun Maeda",
+      "sinopse": "Otonashi acorda em um colégio em um mundo pós-morte sem memórias. Ele se junta a um grupo de estudantes que se recusa a aceitar seu destino e luta contra uma garota misteriosa chamada Anjo.",
+      "capa_url": "https://cdn.myanimelist.net/images/anime/11/27692.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GRNVWMP4R/angel-beats" }
+      ]
+    },
+    {
+      "nome": "Black Lagoon",
+      "ano": "Abril de 2006",
+      "autor": "Rei Hiroe",
+      "sinopse": "Rokuro Okajima, um pacato assalariado japonês, é sequestrado por um grupo de mercenários. Ao ser abandonado por sua empresa, ele se junta a eles na perigosa cidade portuária de Roanapur.",
+      "capa_url": "https://cdn.myanimelist.net/images/anime/4/71834.jpg",
+      "links_para_assistir": [
+        { "plataforma": "Crunchyroll", "link": "https://www.crunchyroll.com/pt-br/series/GR091K28R/black-lagoon" }
+      ]
+    }
+]
