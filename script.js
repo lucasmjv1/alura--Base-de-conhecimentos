@@ -31,7 +31,7 @@ function gerarLinksHTML(linksArray) {
         return '<p class="sem-link" style="color: #666; font-size: 0.8rem;">Indisponível no momento</p>';
     }
     const logos = {
-        "crunchyroll": "crun.jpg",
+        "crunchyroll": "https://i.pinimg.com/736x/dc/94/4a/dc944a8bb35207a237778d0f4f5d02a3.jpg",
         "netflix": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
         "primevideo": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png",
         "hbomax": "https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Max_Logo.svg",
@@ -82,4 +82,5 @@ function renderizarCards(listaDeAnimes) {
         cardContainer.appendChild(article);
     }
 }
+
 carregarDados();

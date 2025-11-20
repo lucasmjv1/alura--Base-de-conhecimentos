@@ -11,6 +11,7 @@
     --bg-color: #202124; 
     --card-bg-color: #2c2c2c; 
     --accent-shadow: 0 0 0 0.1rem #8ab4f850; 
+    --anime-title-color: #E50914; 
 }
 
 body {
@@ -33,14 +34,16 @@ header {
     z-index: 10;
     border-bottom: 1px solid #3c4043; 
     gap: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
 }
 
 header h1 {
     font-size: 1.5rem;
     margin: 0;
-    font-weight: 500;
+    font-weight: 700;
     white-space: nowrap;
-    color: var(--primary-color); 
+    color: var(--anime-title-color); 
+    text-shadow: 0 0 5px rgba(229, 9, 20, 0.8), 0 0 10px rgba(229, 9, 20, 0.5); 
 }
 
 .search-container {
@@ -57,7 +60,7 @@ header h1 {
     width: 35rem; 
     color: var(--secondary-color);
     margin-right: 0.75rem;
-    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.4);
     transition: all 0.2s ease;
 }
 
@@ -70,7 +73,7 @@ header h1 {
 .search-container input:focus {
     outline: none;
     border-color: var(--primary-color); 
-    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.4), 0 0 0 1px var(--primary-color); 
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.6), 0 0 0 1px var(--primary-color); 
 }
 
 #botao-busca {
@@ -82,14 +85,16 @@ header h1 {
     font-weight: 500;
     font-size: 1rem;
     white-space: nowrap;
-    transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+    transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
     background-color: var(--bg-color);
     color: var(--secondary-color);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 #botao-busca:hover {
     background-color: #3c4043; 
     border-color: var(--primary-color);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 #botao-busca:active {
@@ -111,7 +116,7 @@ main {
 .card {
     background-color: var(--card-bg-color);
     border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5); 
     display: flex;
     overflow: hidden;
     transition: transform 0.3s, box-shadow 0.3s;
@@ -120,8 +125,8 @@ main {
 }
 
 .card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+    transform: translateY(-5px); 
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.8);
     border-color: var(--primary-color); 
     cursor: default; 
 }
@@ -186,13 +191,15 @@ main {
     background-color: #3c4043; 
     padding: 6px 10px;
     border-radius: 4px;
-    transition: background-color 0.2s, color 0.2s;
+    transition: background-color 0.2s, color 0.2s, box-shadow 0.2s;
     font-size: 0.9rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
 }
 
 .plataforma-link:hover {
     background-color: var(--primary-color);
     color: var(--bg-color); 
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
 }
 
 .plataforma-link span {
@@ -200,19 +207,16 @@ main {
 }
 
 .icone-plataforma {
-    width: 18px;
-    height: 18px;
-    margin-right: 6px;
-    filter: brightness(0) invert(1); 
+    width: 30px; /* Aumentado de 18px para 30px */
+    height: 30px; /* Aumentado de 18px para 30px */
+    margin-right: 8px; /* Ajustado para dar mais espaço */
+    object-fit: contain; /* Garante que a imagem não distorça */
 }
 
 .plataforma-link:hover .icone-plataforma {
-    filter: brightness(0) invert(0); 
+    /* Sem filtros, mantendo a imagem original */
 }
 
-/* ======================================= */
-/* 6. Footer (Rodapé) - FINAL */
-/* ======================================= */
 .footer {
     position: absolute;
     bottom: 0;
@@ -223,6 +227,7 @@ main {
     border-top: 1px solid #3c4043;
     font-size: 0.9rem;
     text-align: center;
+    box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.4);
 }
 
 .footer-links {
@@ -244,7 +249,6 @@ main {
     font-weight: 500;
 }
 
-/* Configuração Base para as Imagens */
 .footer-links img {
     width: 24px;
     height: 24px;
@@ -253,25 +257,19 @@ main {
     transition: filter 0.3s, transform 0.3s;
 }
 
-/* 🟢 ESPECÍFICO PARA O GITHUB: */
-/* Inverte a cor (Preto vira Branco) para aparecer no fundo escuro */
 .footer-links img[alt="Github"] {
     filter: invert(1); 
 }
 
-/* 🟣 ESPECÍFICO PARA O INSTAGRAM: */
-/* Não inverte (mantém a cor), mas aumenta o brilho para ficar "mais claro" */
 .footer-links img[alt="Instagram"] {
     filter: brightness(1.3) contrast(1.1); 
 }
 
-/* EFEITO AO PASSAR O MOUSE (HOVER) */
 .footer-links a:hover {
     color: var(--primary-color);
     transform: translateY(-2px);
 }
 
-/* No hover, o Instagram volta ao normal e dá um zoom leve */
 .footer-links a:hover img {
     transform: scale(1.1);
 }
@@ -320,7 +318,7 @@ main {
 
     .card:hover {
         transform: none; 
-        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
         border-color: #3c4043;
     }
 }
